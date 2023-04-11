@@ -3,3 +3,6 @@ this is my first commit.
 
 hello 
 how are you doing.
+
+hi, this is rashi.
+how are you doing.
