@@ -3,3 +3,8 @@ this is my first commit.
 
 hello 
 how are you doing.
+
+hi, 
+this is junaid 
+how are you doking.
+
