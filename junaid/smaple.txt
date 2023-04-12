@@ -1,0 +1,27 @@
+1) how to create or initialize git repository in local?
+A) by giving command - git init
+
+2) what is .git?
+A) respomsible for tracking and there is no secrets and we can do lot of tings 
+
+3) what is git?
+A) git is a version control system where you can find or track changed or deleted codes or anything by its versions and git also a source code management 
+or 
+   git is used to track modifications of source code repository and it tracks running history of changes to a code base and helps to resolve conflicts when merging updates from multiple contributions. scm (source code management) is also synonymous to version control system
+
+4) when we create a git repository it should be devided in 3 parts (hiddenly) 
+   working space	staging area		local repo 
+   where we should do work or write a code is working space 
+   whent the code is done we should add it in staging area by using git add . command 
+   to save the code in local repo by using git commit command 
+
+   advatages of Git 
+ ->free and open source 
+ ->fast and small (as most of the operations performed locally means fast)
+ ->security - git secures a common cryptographic hash functions called secure hash function (SHA-1) to name and identify objects within its database 
+ ->no need of powerfull hardware
+ ->branching is easier if we create a new branch and it will copy all the data to new branch 
+
+5) What is the Git Workflow that you use in your organisations? (VERY IMP)
+   git add && git commit -m "" && git push
+
